@@ -1,0 +1,13 @@
+.navbar-inverse{
+    border-radius: 0px;
+    margin-bottom: 100px;
+}
+
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+.list-group a{
+	font-size: 1.8rem;
+}
